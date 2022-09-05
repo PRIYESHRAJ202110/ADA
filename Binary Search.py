@@ -24,7 +24,7 @@ def binary_search(arr, low, high, x):
  
 # Test array
 arr = [ 2, 3, 4, 10, 40 ]
-x = 10
+x = 100
  
 # Function call
 result = binary_search(arr, 0, len(arr)-1, x)
